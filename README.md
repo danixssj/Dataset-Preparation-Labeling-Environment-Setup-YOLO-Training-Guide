@@ -58,10 +58,16 @@ images_raw/
    (e.g., `image_1.jpg`, `image_2.jpg`, …).  
    This helps Label Studio import them properly.
 
-## 2. Install & Launch Label Studio
+## 2. Install & Launch of MiniConda & Label Studio
 You can use any Conda environment name; here we use `image_env` as an example.
 
 ```bash
+# download miniconda
+# tick everything while installation
+# open vscode at the insatlled location and create a folder
+mkdir <folder>
+# go inside that folder
+cd <folder>
 # Create environment
 conda create -n image_env python=3.11
 
